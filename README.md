@@ -9,11 +9,15 @@
 <!--END_BANNER_IMAGE-->
 
 <h1>
-  LiveKit Components
+  LiveKit Components [RU]
 </h1>
 
 <!--BEGIN_DESCRIPTION-->
+This SDK will be translate to RU for other apps.
 Use this SDK to add realtime video, audio and data features to your React app. By connecting to <a href="https://cloud.livekit.io/">LiveKit Cloud</a> or a self-hosted server, you can quickly build applications such as multi-modal AI, live streaming, or video calls with just a few lines of code.
+//
+Этот SDK будет переведен на русский язык для других приложений.
+Используйте этот SDK для добавления видео, аудио и данных в реальном времени в ваше приложение React. Подключившись к <a href="https://cloud.livekit.io /">LiveKit Cloud</a> или автономный сервер позволяют быстро создавать такие приложения, как мультимодальный искусственный интеллект, потоковое вещание в реальном времени или видеозвонки, всего с помощью нескольких строк кода.
 <!--END_DESCRIPTION-->
 
 <br/>
